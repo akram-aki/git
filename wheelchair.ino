@@ -6,7 +6,6 @@ int dirRight = 4;      // Direction for right motor
 
 // Joystick pins
 int xPin = A0;         // X-axis (left/right)
-int yPin = A1;         // Y-axis (forward/backward)
 
 // Deadzone value
 int deadzone = 50;
